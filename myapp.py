@@ -9,7 +9,7 @@ with st.container():
     st.subheader("Hi, I am Jarvis :wave:")
     st.title("Your friendly GUI from the neighbourhood")
     st.write(
-        "I am here to show you all kinds of stuff about you current HiL run."
+        "I am here to show you all kinds of stuff about your current HiL run. When I am finished that is :blush:"
     )
 
 
