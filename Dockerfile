@@ -5,6 +5,5 @@ COPY requirements.txt ./requirements.txt
 RUN pip install -r requirements.txt
 EXPOSE 8501
 COPY myapp.py ./myapp.py
-COPY mymodule.py ./mymodule.py
 ENTRYPOINT ["streamlit", "run"]
 CMD ["myapp.py"]
