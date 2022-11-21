@@ -9,7 +9,7 @@ with st.container():
     st.subheader("Hi, I am Jarvis :wave:")
     st.title("Your friendly GUI from the neighbourhood")
     st.write(
-        "I am here to show you all kinds of stuff about your current HiL run. When I am finished that is :blush:"
+        "I am here to show you all kinds of stuff about your current project."
     )
 
 
@@ -28,4 +28,6 @@ option = col2.selectbox(
      df['first column'])
 
 st.write("You selected: ", option)
+
+
 
