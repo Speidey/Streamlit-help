@@ -1,5 +1,6 @@
-Zum Starten StartGUI.bat nutzen
+
 Der Dateipfad muss in StartGui entsprechend angepasst werden
+Zum Starten StartGUI.bat nutzen
 Bei Bearbeitung muss die GUI mit StopGui gestoppt und neu gestartet werden
 zum Aufrufen der GUI http://localhost:8501/
 
